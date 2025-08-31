@@ -1,4 +1,4 @@
-# Scrit Assignment 0
+# Script Assignment 0
 
 I have finished the intro steps and watched the Git & Github Grash Course video. The following is what I have learned and what I am still confused about.
 
